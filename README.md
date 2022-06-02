@@ -9,7 +9,7 @@ The objective of this course was to learn how computers work (no more magic!), f
 * C programming
 * Assembly programming - MIPS assembly language and instruction sets.
 * Digital Logic design
-* Processor design
+* Processor/CPU design
 * Memory systems design - caches and virtual memory.
 * I/O
 
