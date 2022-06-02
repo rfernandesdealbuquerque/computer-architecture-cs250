@@ -17,7 +17,7 @@ The objective of this course was to learn how computers work (no more magic!), f
 
 To understand and grasp the concepts well, we developed a total of 5 projects during the course of the semester. 
 
-OBS: The hwtest.py files for all projects were NOT written by me. They were provided by the professor. 
+💢 The hwtest.py files for all projects were **NOT** written by me. They were provided by the professor. 
 
 ### 1️⃣ Project 1
 
